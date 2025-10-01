@@ -1,3 +1,9 @@
+---
+noteId: "f846f1809e9511f0832e9bb3e6f3d619"
+tags: []
+
+---
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
